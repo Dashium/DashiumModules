@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "fs": "^0.0.1-security"
+  },
+  "name": "dashiummodules",
+  "version": "1.0.0",
+  "description": "List Modules Dashium",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "release": "release.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dashium/DashiumModules.git"
+  },
+  "keywords": [
+    "Dashium"
+  ],
+  "author": "Tai tetsuyuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dashium/DashiumModules/issues"
+  },
+  "homepage": "https://github.com/Dashium/DashiumModules#readme"
+}
