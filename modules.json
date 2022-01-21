@@ -1,1 +1,66 @@
-[{"name":"Dashium","repo":"https://github.com/Dashium/Dashium","license":"MIT License"},{"name":"DashiumCron","repo":"https://github.com/Dashium/DashiumCron","license":"MIT License"},{"name":"DashiumInstaller","repo":"https://github.com/Dashium/DashiumInstaller","license":"MIT License"},{"name":"DashiumWebServer","repo":"https://github.com/Dashium/DashiumWebServer","license":"MIT License"},{"name":"DashiumDashboard","repo":"https://github.com/Dashium/DashiumDashboard","license":"MIT License"},{"name":"DashiumUpdateApps","repo":"https://github.com/Dashium/DashiumUpdateApps","license":"MIT License"},{"name":"DashiumCompiler","repo":"https://github.com/Dashium/DashiumCompiler","license":"MIT License"},{"name":"DashiumModules","repo":"https://github.com/Dashium/DashiumModules","license":"MIT License"}]
+[
+    {
+        "name": "Dashium",
+        "repo_name": "Dashium/Dashium",
+        "repo_url": "https://github.com/Dashium/Dashium",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumCron",
+        "repo_name": "Dashium/DashiumCron",
+        "repo_url": "https://github.com/Dashium/DashiumCron",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumInstaller",
+        "repo_name": "Dashium/DashiumInstaller",
+        "repo_url": "https://github.com/Dashium/DashiumInstaller",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumWebServer",
+        "repo_name": "Dashium/DashiumWebServer",
+        "repo_url": "https://github.com/Dashium/DashiumWebServer",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumDashboard",
+        "repo_name": "Dashium/DashiumDashboard",
+        "repo_url": "https://github.com/Dashium/DashiumDashboard",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumUpdateApps",
+        "repo_name": "Dashium/DashiumUpdateApps",
+        "repo_url": "https://github.com/Dashium/DashiumUpdateApps",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumCompiler",
+        "repo_name": "Dashium/DashiumCompiler",
+        "repo_url": "https://github.com/Dashium/DashiumCompiler",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    },
+    {
+        "name": "DashiumModules",
+        "repo_name": "Dashium/DashiumModules",
+        "repo_url": "https://github.com/Dashium/DashiumModules",
+        "version": "null",
+        "license": "MIT License",
+        "requires": "null"
+    }
+]

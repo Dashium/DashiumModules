@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "@octokit/core": "^3.5.1",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
   },
   "name": "dashiummodules",
   "version": "1.0.0",
   "description": "List Modules Dashium",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node main.js",
     "release": "./release.sh"
