@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node main.js",
-    "release": "release.sh"
+    "release": "./release.sh"
   },
   "repository": {
     "type": "git",
