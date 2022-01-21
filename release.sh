@@ -8,6 +8,7 @@ set -o nounset    # fail on unset variables
 git clone "https://DashiumBot:$GH_TOKEN@github.com/Dashium/DashiumModules" release
 cd release
 
+npm install
 npm start
 
 # bail if nothing changed
